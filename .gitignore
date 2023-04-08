@@ -351,3 +351,6 @@ MigrationBackup/
 
 # Ignorar vídeos
 *.mp4
+
+# Ignorar banco de dados Access que estiver descompactado
+*.accdb
