@@ -1,0 +1,4 @@
+Os arquivos número 15 não abrem a tela de login automaticamente, justamente para que você consiga acessar o código VBA!
+Esses arquivos tem fins apenas didáticos e você deve usá-los para consultar os códigos e entender sobre as técnicas de programação e não devem ser usados comercialmente.
+Assista as aulas desde o início e construa o seu próprio programa, não tente pegar o programa já pronto e apenas adaptar às suas necessidades se ainda não domina o VBA, pois isso certamente irá acarretar erros no seu programa e prejudicará você mesmo!
+Dica: Em progração é muito mais fácil construir algo do zero do que adaptar algo já pronto!
