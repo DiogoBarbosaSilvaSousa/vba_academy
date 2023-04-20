@@ -6,3 +6,7 @@ Curso de VBA para o Excel e outros.
 # Curso básico VBA
 
 # Curso VBA completo
+
+# Curso Criação de Sistemas
+
+- CStr - converte em string
